@@ -1,0 +1,168 @@
+C:\Users\alien\OneDrive\Desktop\C#_Intro_Sept_2022_PM\MovieMaster\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\alien\OneDrive\Desktop\C#_Intro_Sept_2022_PM\MovieMaster\bin\Debug\net6.0\appsettings.json
+C:\Users\alien\OneDrive\Desktop\C#_Intro_Sept_2022_PM\MovieMaster\bin\Debug\net6.0\MovieMaster.staticwebassets.runtime.json
+C:\Users\alien\OneDrive\Desktop\C#_Intro_Sept_2022_PM\MovieMaster\bin\Debug\net6.0\MovieMaster.exe
+C:\Users\alien\OneDrive\Desktop\C#_Intro_Sept_2022_PM\MovieMaster\bin\Debug\net6.0\MovieMaster.deps.json
+C:\Users\alien\OneDrive\Desktop\C#_Intro_Sept_2022_PM\MovieMaster\bin\Debug\net6.0\MovieMaster.runtimeconfig.json
+C:\Users\alien\OneDrive\Desktop\C#_Intro_Sept_2022_PM\MovieMaster\bin\Debug\net6.0\MovieMaster.dll
+C:\Users\alien\OneDrive\Desktop\C#_Intro_Sept_2022_PM\MovieMaster\bin\Debug\net6.0\MovieMaster.pdb
+C:\Users\alien\OneDrive\Desktop\C#_Intro_Sept_2022_PM\MovieMaster\obj\Debug\net6.0\MovieMaster.csproj.AssemblyReference.cache
+C:\Users\alien\OneDrive\Desktop\C#_Intro_Sept_2022_PM\MovieMaster\obj\Debug\net6.0\MovieMaster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alien\OneDrive\Desktop\C#_Intro_Sept_2022_PM\MovieMaster\obj\Debug\net6.0\MovieMaster.AssemblyInfoInputs.cache
+C:\Users\alien\OneDrive\Desktop\C#_Intro_Sept_2022_PM\MovieMaster\obj\Debug\net6.0\MovieMaster.AssemblyInfo.cs
+C:\Users\alien\OneDrive\Desktop\C#_Intro_Sept_2022_PM\MovieMaster\obj\Debug\net6.0\MovieMaster.csproj.CoreCompileInputs.cache
+C:\Users\alien\OneDrive\Desktop\C#_Intro_Sept_2022_PM\MovieMaster\obj\Debug\net6.0\MovieMaster.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alien\OneDrive\Desktop\C#_Intro_Sept_2022_PM\MovieMaster\obj\Debug\net6.0\MovieMaster.RazorAssemblyInfo.cache
+C:\Users\alien\OneDrive\Desktop\C#_Intro_Sept_2022_PM\MovieMaster\obj\Debug\net6.0\MovieMaster.RazorAssemblyInfo.cs
+C:\Users\alien\OneDrive\Desktop\C#_Intro_Sept_2022_PM\MovieMaster\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\alien\OneDrive\Desktop\C#_Intro_Sept_2022_PM\MovieMaster\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\alien\OneDrive\Desktop\C#_Intro_Sept_2022_PM\MovieMaster\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\alien\OneDrive\Desktop\C#_Intro_Sept_2022_PM\MovieMaster\obj\Debug\net6.0\scopedcss\bundle\MovieMaster.styles.css
+C:\Users\alien\OneDrive\Desktop\C#_Intro_Sept_2022_PM\MovieMaster\obj\Debug\net6.0\scopedcss\projectbundle\MovieMaster.bundle.scp.css
+C:\Users\alien\OneDrive\Desktop\C#_Intro_Sept_2022_PM\MovieMaster\obj\Debug\net6.0\MovieMaster.dll
+C:\Users\alien\OneDrive\Desktop\C#_Intro_Sept_2022_PM\MovieMaster\obj\Debug\net6.0\refint\MovieMaster.dll
+C:\Users\alien\OneDrive\Desktop\C#_Intro_Sept_2022_PM\MovieMaster\obj\Debug\net6.0\MovieMaster.pdb
+C:\Users\alien\OneDrive\Desktop\C#_Intro_Sept_2022_PM\MovieMaster\obj\Debug\net6.0\MovieMaster.genruntimeconfig.cache
+C:\Users\alien\OneDrive\Desktop\C#_Intro_Sept_2022_PM\MovieMaster\obj\Debug\net6.0\ref\MovieMaster.dll
+C:\Users\alien\OneDrive\Desktop\C#_Intro_Sept_2022_PM\MovieMaster\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\alien\OneDrive\Desktop\C#_Intro_Sept_2022_PM\MovieMaster\obj\Debug\net6.0\MovieMaster.csproj.CopyComplete
+D:\triOS(New)\C# and  .NET\Final Project\MovieMaster_Day6\bin\Debug\net6.0\appsettings.Development.json
+D:\triOS(New)\C# and  .NET\Final Project\MovieMaster_Day6\bin\Debug\net6.0\appsettings.json
+D:\triOS(New)\C# and  .NET\Final Project\MovieMaster_Day6\bin\Debug\net6.0\MovieMaster.staticwebassets.runtime.json
+D:\triOS(New)\C# and  .NET\Final Project\MovieMaster_Day6\bin\Debug\net6.0\MovieMaster.exe
+D:\triOS(New)\C# and  .NET\Final Project\MovieMaster_Day6\bin\Debug\net6.0\MovieMaster.deps.json
+D:\triOS(New)\C# and  .NET\Final Project\MovieMaster_Day6\bin\Debug\net6.0\MovieMaster.runtimeconfig.json
+D:\triOS(New)\C# and  .NET\Final Project\MovieMaster_Day6\bin\Debug\net6.0\MovieMaster.dll
+D:\triOS(New)\C# and  .NET\Final Project\MovieMaster_Day6\bin\Debug\net6.0\MovieMaster.pdb
+D:\triOS(New)\C# and  .NET\Final Project\MovieMaster_Day6\bin\Debug\net6.0\System.Text.Json.dll
+D:\triOS(New)\C# and  .NET\Final Project\MovieMaster_Day6\obj\Debug\net6.0\MovieMaster.csproj.AssemblyReference.cache
+D:\triOS(New)\C# and  .NET\Final Project\MovieMaster_Day6\obj\Debug\net6.0\MovieMaster.GeneratedMSBuildEditorConfig.editorconfig
+D:\triOS(New)\C# and  .NET\Final Project\MovieMaster_Day6\obj\Debug\net6.0\MovieMaster.AssemblyInfoInputs.cache
+D:\triOS(New)\C# and  .NET\Final Project\MovieMaster_Day6\obj\Debug\net6.0\MovieMaster.AssemblyInfo.cs
+D:\triOS(New)\C# and  .NET\Final Project\MovieMaster_Day6\obj\Debug\net6.0\MovieMaster.csproj.CoreCompileInputs.cache
+D:\triOS(New)\C# and  .NET\Final Project\MovieMaster_Day6\obj\Debug\net6.0\MovieMaster.MvcApplicationPartsAssemblyInfo.cache
+D:\triOS(New)\C# and  .NET\Final Project\MovieMaster_Day6\obj\Debug\net6.0\MovieMaster.RazorAssemblyInfo.cache
+D:\triOS(New)\C# and  .NET\Final Project\MovieMaster_Day6\obj\Debug\net6.0\MovieMaster.RazorAssemblyInfo.cs
+D:\triOS(New)\C# and  .NET\Final Project\MovieMaster_Day6\obj\Debug\net6.0\staticwebassets.build.json
+D:\triOS(New)\C# and  .NET\Final Project\MovieMaster_Day6\obj\Debug\net6.0\staticwebassets.development.json
+D:\triOS(New)\C# and  .NET\Final Project\MovieMaster_Day6\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\triOS(New)\C# and  .NET\Final Project\MovieMaster_Day6\obj\Debug\net6.0\scopedcss\bundle\MovieMaster.styles.css
+D:\triOS(New)\C# and  .NET\Final Project\MovieMaster_Day6\obj\Debug\net6.0\scopedcss\projectbundle\MovieMaster.bundle.scp.css
+D:\triOS(New)\C# and  .NET\Final Project\MovieMaster_Day6\obj\Debug\net6.0\MovieMaster.csproj.CopyComplete
+D:\triOS(New)\C# and  .NET\Final Project\MovieMaster_Day6\obj\Debug\net6.0\MovieMaster.dll
+D:\triOS(New)\C# and  .NET\Final Project\MovieMaster_Day6\obj\Debug\net6.0\refint\MovieMaster.dll
+D:\triOS(New)\C# and  .NET\Final Project\MovieMaster_Day6\obj\Debug\net6.0\MovieMaster.pdb
+D:\triOS(New)\C# and  .NET\Final Project\MovieMaster_Day6\obj\Debug\net6.0\MovieMaster.genruntimeconfig.cache
+D:\triOS(New)\C# and  .NET\Final Project\MovieMaster_Day6\obj\Debug\net6.0\ref\MovieMaster.dll
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project(Chansoo_Han)\bin\Debug\net6.0\appsettings.Development.json
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project(Chansoo_Han)\bin\Debug\net6.0\appsettings.json
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project(Chansoo_Han)\bin\Debug\net6.0\MovieMaster.staticwebassets.runtime.json
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project(Chansoo_Han)\bin\Debug\net6.0\MovieMaster.exe
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project(Chansoo_Han)\bin\Debug\net6.0\MovieMaster.deps.json
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project(Chansoo_Han)\bin\Debug\net6.0\MovieMaster.runtimeconfig.json
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project(Chansoo_Han)\bin\Debug\net6.0\MovieMaster.dll
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project(Chansoo_Han)\bin\Debug\net6.0\MovieMaster.pdb
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project(Chansoo_Han)\bin\Debug\net6.0\System.Text.Json.dll
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project(Chansoo_Han)\obj\Debug\net6.0\MovieMaster.csproj.AssemblyReference.cache
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project(Chansoo_Han)\obj\Debug\net6.0\MovieMaster.GeneratedMSBuildEditorConfig.editorconfig
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project(Chansoo_Han)\obj\Debug\net6.0\MovieMaster.AssemblyInfoInputs.cache
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project(Chansoo_Han)\obj\Debug\net6.0\MovieMaster.AssemblyInfo.cs
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project(Chansoo_Han)\obj\Debug\net6.0\MovieMaster.csproj.CoreCompileInputs.cache
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project(Chansoo_Han)\obj\Debug\net6.0\MovieMaster.MvcApplicationPartsAssemblyInfo.cache
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project(Chansoo_Han)\obj\Debug\net6.0\MovieMaster.RazorAssemblyInfo.cache
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project(Chansoo_Han)\obj\Debug\net6.0\MovieMaster.RazorAssemblyInfo.cs
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project(Chansoo_Han)\obj\Debug\net6.0\staticwebassets.build.json
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project(Chansoo_Han)\obj\Debug\net6.0\staticwebassets.development.json
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project(Chansoo_Han)\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project(Chansoo_Han)\obj\Debug\net6.0\scopedcss\bundle\MovieMaster.styles.css
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project(Chansoo_Han)\obj\Debug\net6.0\scopedcss\projectbundle\MovieMaster.bundle.scp.css
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project(Chansoo_Han)\obj\Debug\net6.0\MovieMaster.csproj.CopyComplete
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project(Chansoo_Han)\obj\Debug\net6.0\MovieMaster.dll
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project(Chansoo_Han)\obj\Debug\net6.0\refint\MovieMaster.dll
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project(Chansoo_Han)\obj\Debug\net6.0\MovieMaster.pdb
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project(Chansoo_Han)\obj\Debug\net6.0\MovieMaster.genruntimeconfig.cache
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project(Chansoo_Han)\obj\Debug\net6.0\ref\MovieMaster.dll
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project for C# and .NET(Chansoo_Han)\bin\Debug\net6.0\appsettings.Development.json
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project for C# and .NET(Chansoo_Han)\bin\Debug\net6.0\appsettings.json
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project for C# and .NET(Chansoo_Han)\bin\Debug\net6.0\MovieMaster.staticwebassets.runtime.json
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project for C# and .NET(Chansoo_Han)\bin\Debug\net6.0\MovieMaster.exe
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project for C# and .NET(Chansoo_Han)\bin\Debug\net6.0\MovieMaster.deps.json
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project for C# and .NET(Chansoo_Han)\bin\Debug\net6.0\MovieMaster.runtimeconfig.json
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project for C# and .NET(Chansoo_Han)\bin\Debug\net6.0\MovieMaster.dll
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project for C# and .NET(Chansoo_Han)\bin\Debug\net6.0\MovieMaster.pdb
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project for C# and .NET(Chansoo_Han)\bin\Debug\net6.0\System.Text.Json.dll
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project for C# and .NET(Chansoo_Han)\obj\Debug\net6.0\MovieMaster.csproj.AssemblyReference.cache
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project for C# and .NET(Chansoo_Han)\obj\Debug\net6.0\MovieMaster.GeneratedMSBuildEditorConfig.editorconfig
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project for C# and .NET(Chansoo_Han)\obj\Debug\net6.0\MovieMaster.AssemblyInfoInputs.cache
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project for C# and .NET(Chansoo_Han)\obj\Debug\net6.0\MovieMaster.AssemblyInfo.cs
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project for C# and .NET(Chansoo_Han)\obj\Debug\net6.0\MovieMaster.csproj.CoreCompileInputs.cache
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project for C# and .NET(Chansoo_Han)\obj\Debug\net6.0\MovieMaster.MvcApplicationPartsAssemblyInfo.cache
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project for C# and .NET(Chansoo_Han)\obj\Debug\net6.0\MovieMaster.RazorAssemblyInfo.cache
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project for C# and .NET(Chansoo_Han)\obj\Debug\net6.0\MovieMaster.RazorAssemblyInfo.cs
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project for C# and .NET(Chansoo_Han)\obj\Debug\net6.0\staticwebassets.build.json
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project for C# and .NET(Chansoo_Han)\obj\Debug\net6.0\staticwebassets.development.json
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project for C# and .NET(Chansoo_Han)\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project for C# and .NET(Chansoo_Han)\obj\Debug\net6.0\scopedcss\bundle\MovieMaster.styles.css
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project for C# and .NET(Chansoo_Han)\obj\Debug\net6.0\scopedcss\projectbundle\MovieMaster.bundle.scp.css
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project for C# and .NET(Chansoo_Han)\obj\Debug\net6.0\MovieMaster.csproj.CopyComplete
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project for C# and .NET(Chansoo_Han)\obj\Debug\net6.0\MovieMaster.dll
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project for C# and .NET(Chansoo_Han)\obj\Debug\net6.0\refint\MovieMaster.dll
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project for C# and .NET(Chansoo_Han)\obj\Debug\net6.0\MovieMaster.pdb
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project for C# and .NET(Chansoo_Han)\obj\Debug\net6.0\MovieMaster.genruntimeconfig.cache
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project for C# and .NET(Chansoo_Han)\obj\Debug\net6.0\ref\MovieMaster.dll
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project_C_and_.NET(Chansoo_Han)\bin\Debug\net6.0\appsettings.Development.json
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project_C_and_.NET(Chansoo_Han)\bin\Debug\net6.0\appsettings.json
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project_C_and_.NET(Chansoo_Han)\bin\Debug\net6.0\MovieMaster.staticwebassets.runtime.json
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project_C_and_.NET(Chansoo_Han)\bin\Debug\net6.0\MovieMaster.exe
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project_C_and_.NET(Chansoo_Han)\bin\Debug\net6.0\MovieMaster.deps.json
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project_C_and_.NET(Chansoo_Han)\bin\Debug\net6.0\MovieMaster.runtimeconfig.json
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project_C_and_.NET(Chansoo_Han)\bin\Debug\net6.0\MovieMaster.dll
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project_C_and_.NET(Chansoo_Han)\bin\Debug\net6.0\MovieMaster.pdb
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project_C_and_.NET(Chansoo_Han)\bin\Debug\net6.0\System.Text.Json.dll
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project_C_and_.NET(Chansoo_Han)\obj\Debug\net6.0\MovieMaster.csproj.AssemblyReference.cache
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project_C_and_.NET(Chansoo_Han)\obj\Debug\net6.0\MovieMaster.GeneratedMSBuildEditorConfig.editorconfig
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project_C_and_.NET(Chansoo_Han)\obj\Debug\net6.0\MovieMaster.AssemblyInfoInputs.cache
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project_C_and_.NET(Chansoo_Han)\obj\Debug\net6.0\MovieMaster.AssemblyInfo.cs
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project_C_and_.NET(Chansoo_Han)\obj\Debug\net6.0\MovieMaster.csproj.CoreCompileInputs.cache
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project_C_and_.NET(Chansoo_Han)\obj\Debug\net6.0\MovieMaster.MvcApplicationPartsAssemblyInfo.cache
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project_C_and_.NET(Chansoo_Han)\obj\Debug\net6.0\MovieMaster.RazorAssemblyInfo.cache
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project_C_and_.NET(Chansoo_Han)\obj\Debug\net6.0\MovieMaster.RazorAssemblyInfo.cs
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project_C_and_.NET(Chansoo_Han)\obj\Debug\net6.0\staticwebassets.build.json
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project_C_and_.NET(Chansoo_Han)\obj\Debug\net6.0\staticwebassets.development.json
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project_C_and_.NET(Chansoo_Han)\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project_C_and_.NET(Chansoo_Han)\obj\Debug\net6.0\scopedcss\bundle\MovieMaster.styles.css
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project_C_and_.NET(Chansoo_Han)\obj\Debug\net6.0\scopedcss\projectbundle\MovieMaster.bundle.scp.css
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project_C_and_.NET(Chansoo_Han)\obj\Debug\net6.0\MovieMaster.csproj.CopyComplete
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project_C_and_.NET(Chansoo_Han)\obj\Debug\net6.0\MovieMaster.dll
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project_C_and_.NET(Chansoo_Han)\obj\Debug\net6.0\refint\MovieMaster.dll
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project_C_and_.NET(Chansoo_Han)\obj\Debug\net6.0\MovieMaster.pdb
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project_C_and_.NET(Chansoo_Han)\obj\Debug\net6.0\MovieMaster.genruntimeconfig.cache
+D:\triOS(New)\C# and  .NET\Final Project\Final_Project_C_and_.NET(Chansoo_Han)\obj\Debug\net6.0\ref\MovieMaster.dll
+D:\Portfolio\Movie_Master\bin\Debug\net6.0\appsettings.Development.json
+D:\Portfolio\Movie_Master\bin\Debug\net6.0\appsettings.json
+D:\Portfolio\Movie_Master\bin\Debug\net6.0\MovieMaster.staticwebassets.runtime.json
+D:\Portfolio\Movie_Master\bin\Debug\net6.0\MovieMaster.exe
+D:\Portfolio\Movie_Master\bin\Debug\net6.0\MovieMaster.deps.json
+D:\Portfolio\Movie_Master\bin\Debug\net6.0\MovieMaster.runtimeconfig.json
+D:\Portfolio\Movie_Master\bin\Debug\net6.0\MovieMaster.dll
+D:\Portfolio\Movie_Master\bin\Debug\net6.0\MovieMaster.pdb
+D:\Portfolio\Movie_Master\bin\Debug\net6.0\System.Text.Json.dll
+D:\Portfolio\Movie_Master\obj\Debug\net6.0\MovieMaster.csproj.AssemblyReference.cache
+D:\Portfolio\Movie_Master\obj\Debug\net6.0\MovieMaster.GeneratedMSBuildEditorConfig.editorconfig
+D:\Portfolio\Movie_Master\obj\Debug\net6.0\MovieMaster.AssemblyInfoInputs.cache
+D:\Portfolio\Movie_Master\obj\Debug\net6.0\MovieMaster.AssemblyInfo.cs
+D:\Portfolio\Movie_Master\obj\Debug\net6.0\MovieMaster.csproj.CoreCompileInputs.cache
+D:\Portfolio\Movie_Master\obj\Debug\net6.0\MovieMaster.MvcApplicationPartsAssemblyInfo.cache
+D:\Portfolio\Movie_Master\obj\Debug\net6.0\MovieMaster.RazorAssemblyInfo.cache
+D:\Portfolio\Movie_Master\obj\Debug\net6.0\MovieMaster.RazorAssemblyInfo.cs
+D:\Portfolio\Movie_Master\obj\Debug\net6.0\staticwebassets.build.json
+D:\Portfolio\Movie_Master\obj\Debug\net6.0\staticwebassets.development.json
+D:\Portfolio\Movie_Master\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\Portfolio\Movie_Master\obj\Debug\net6.0\scopedcss\bundle\MovieMaster.styles.css
+D:\Portfolio\Movie_Master\obj\Debug\net6.0\scopedcss\projectbundle\MovieMaster.bundle.scp.css
+D:\Portfolio\Movie_Master\obj\Debug\net6.0\MovieMaster.csproj.CopyComplete
+D:\Portfolio\Movie_Master\obj\Debug\net6.0\MovieMaster.dll
+D:\Portfolio\Movie_Master\obj\Debug\net6.0\refint\MovieMaster.dll
+D:\Portfolio\Movie_Master\obj\Debug\net6.0\MovieMaster.pdb
+D:\Portfolio\Movie_Master\obj\Debug\net6.0\MovieMaster.genruntimeconfig.cache
+D:\Portfolio\Movie_Master\obj\Debug\net6.0\ref\MovieMaster.dll

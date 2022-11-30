@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "MZRzws3d9Nqi0b7UTF5wUZlCieCILDsSReWJL6q5rE9sfwsoQsVDj+bzPlzUcXppBIXRZvQr82NnaeBMcip5OA==",
+  "success": true,
+  "projectFilePath": "D:\\Portfolio\\Movie_Master\\MovieMaster.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Chansoo Han\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Chansoo Han\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\Chansoo Han\\.nuget\\packages\\system.text.json\\6.0.5\\system.text.json.6.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

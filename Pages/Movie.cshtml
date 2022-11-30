@@ -1,0 +1,54 @@
+@page 
+@model MovieModel 
+@{
+    string moviePoster = "https://image.tmdb.org/t/p/w1920_and_h800_multi_faces" + Model.backdropPath;
+}
+
+<div id="movieDiv" style="background: radial-gradient(rgba(15, 14, 22, 0.13), #100e17), url(@moviePoster); background-size: cover; background-position: center;">
+    <div id="titleAndPoster">
+        <h1>@Model.movieTitle</h1>
+        <img id="largeMoviePoster" src="@Model.posterPath" alt="@Model.movieTitle">
+    </div>
+    <div id="movieInfo">
+        <h2 class="descText">Released:</h2>
+        <h3>@Model.releaseDate</h3>
+        <h2 class="descText">Runtime:</h2>
+        <h3>@Model.runtime mins</h3>
+        <h2 class="descText">User Rating:</h2>
+        <h3>@Model.voteAverage / 10</h3>
+        <h4 class="descText">Genres:</h4>
+        @for(int i = 0; i < Model.genres.Count; i++) {
+            if(i < Model.genres.Count - 1) {
+                <span>@Model.genres[i], </span>
+            }
+            else {
+                <span>@Model.genres[i]</span>
+            }
+        }
+        <h4 class="descText">Story:</h4>
+        <p>@Model.overview</p>
+    </div>
+    <div id="videoPanel">
+        @if(Model.videos.Count >= 1) {
+            <input id="trailerButton" type="button" value="play trailer" onclick="togglePlayer()">
+            <iframe class="youtubeVids" id="youtubePlayer"
+                src="https://www.youtube.com/embed/@Model.videos[0]?rel=0&controls=0"
+                frameborder="0" allow="encrypted-media; picture-in-picture"
+                allowfullscreen autoplay="false">
+            </iframe>
+        }
+    </div>
+    <div id="castPics">
+        @for(int i = 0; i < Model.castImgs.Count; i++) {
+            string path = "https://image.tmdb.org/t/p/w500";
+            string fullImagePath = path + Model.castImgs[i];
+            <form method="POST" asp-page-handler="GetCast">
+                <div class="castPic" 
+                    style="background: url(@fullImagePath); background-size: cover; background-position: center;">
+                    <span class="castName" name="actorName">@Model.castNames[i]</span>
+                    <input class="castButton" type="submit" name="actorID" value="@Model.castIDs[i]" />
+                </div>
+            </form>
+        }
+    </div>
+</div>

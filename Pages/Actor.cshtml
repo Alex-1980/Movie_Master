@@ -1,0 +1,56 @@
+@page
+@model ActorModel
+
+<div class="container-fluid actorDetails">
+  <div class="row content">
+    <div class="col-sm-3">
+      <img class="actorPic" src="@Model.profile_pic" alt="@Model.name"/>
+      <div class="born">
+        <h4 class="descText">Birthday</h4>
+        <span class="age">@Model.birth (@Model.age years old)</span>
+      </div>
+      <br/>
+      <div class="place">
+        <h4 class="descText">Place of Birth</h4>
+        <span class="place">@Model.birthPlace</span>
+      </div>
+      <br/>
+      <div class="homepage">
+        <h4 class="descText">Homepage</h4>
+        <a class="" href="@Model.homePage" target="_blank">@Model.homePage</a>
+      </div>
+      <br/>
+      <div class="twitter">
+        <h4 class="descText">Twitter</h4>
+        <a class="" href="http://www.twitter.com/@Model.twitterID" target="_blank">twitter.com/@Model.twitterID</a>
+      </div>
+      <br/>
+      <div class="facebook">
+        <h4 class="descText">Facebook</h4>
+        <a class="" href="http://www.facebook.com/@Model.facebookID" target="_blank">facebook.com/@Model.facebookID</a>
+      </div>
+      <br/>
+      <div class="instagram">
+        <h4 class="descText">Instagram</h4>
+        <a class="" href="http://www.instagram.com/@Model.instagramID" target="_blank">instagram.com/@Model.instagramID</a>
+      </div>
+    </div>
+  <div class="col-sm-5">
+    <h1 style="color: #333">@Model.name</h1>
+    <br/>
+    <h4 class="descText">Biography</h4>
+    <p>@Model.bio</p>
+    <h4 class="descText">Also Known For</h4>
+    @for(int i = 0; i < 10; i++) {
+            string path = "https://image.tmdb.org/t/p/w500" + Model.posterURLS[i];
+            <div class="creditPosters" style="background: url(@path); background-size: cover;">
+            </div>
+        }
+  </div>
+  <div class="col-sm-4">
+    @for(int i = 0; i < Model.profileURLS.Count; i++) {
+            string path = "https://image.tmdb.org/t/p/w500" + Model.profileURLS[i];
+            <div class="profiles" style="background: url(@path); background-size: cover;">
+            </div>
+        }
+  </div>

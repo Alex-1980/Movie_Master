@@ -1,0 +1,227 @@
+
+body {
+  margin-bottom: 60px;
+  color: #fff;
+}
+a {
+  color: #fff;
+}
+#logo {
+  width: 72px;
+}
+#privacyLink {
+  margin-right: 21px;
+}
+#tmdbLogo {
+  width: 300px;
+  margin-left: 3px;
+}
+.thumbs {
+  display: inline-block;
+  border-radius: 4px;
+  border: 2px solid #000;
+  margin: 5px;
+  cursor: pointer;
+  width: 140px;
+  height: 200px;
+}
+.thumbButton {
+  width: 150px;
+  height: 225px;
+  cursor: pointer;
+  opacity: 0;
+  border-radius: 4px;
+}
+#movieDiv {
+  width: 100%;
+  min-height: 800px;
+  max-height: 800px;
+  padding: 25px 50px;
+  overflow: hidden;
+}
+#movieDiv > span {
+  font-size: 1.2rem;
+  font-weight: 700;
+}
+
+
+#searchForm {
+  width: 100%;
+  margin-left: 30px;
+}
+#searchBox {
+  width: 80%;
+  float: left;
+}
+#searchBox > input[type="text"] {
+  width: 100%;
+  padding-left: 15px;
+  font-size: 1.6rem;
+  font-weight: 700;
+  border-top-left-radius: 12px;
+  border-bottom-left-radius: 12px;
+  border: 1px solid #ccc;
+}
+#searchButton {
+  width: 20%;
+  float: left;
+}
+#searchButton > input[type="submit"] {
+  width: 100%;
+  font-size: 1.6rem;
+  font-weight: 700;
+  border-top-right-radius: 12px;
+  border-bottom-right-radius: 12px;
+  border: 1px solid #ccc;
+  background: rgb(174, 242, 174);
+}
+.account {
+  font-size: 1.2rem;
+}
+
+.searchResults {
+  width: 75%;
+  margin: 10px auto;
+}
+.searchResults > h1 {
+  color:#0094fe;
+}
+#titleAndPoster {
+  width: 380px;
+  float: left;
+}
+#movieInfo > p {
+  padding: 10px;
+  padding-left: 0;
+  padding-right: 45px;
+  padding-top: 0;
+  font-size: 1.3rem;
+}
+#movieInfo {
+  text-align: left;
+  width: 450px;
+  float: left;
+  padding: 0 15px;
+}
+#movieInfo > span {
+  margin-bottom: 10px;
+}
+#largeMoviePoster {
+  width: 320px;
+  border-radius: 12px;
+  border: 3px solid #fff;
+}
+.descText {
+  font-weight: 700;
+  text-shadow: 1px 1px 2px 2px #777;
+  color:#5ad070;
+}
+.bio {
+  margin-right: 200px;
+}
+#videoPanel {
+  width: 350px;
+  padding: 50px 100px;
+  float: left;
+}
+#trailerButton {
+  width: 300px;
+  opacity: .67;
+  padding: 5px 15px;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  color: #fff;
+  background: #444;
+  border: 2px solid #fff;
+  border-radius: 8px;
+}
+#trailerButton:hover {
+  background: #0f0;
+  color: #222;
+}
+#youtubePlayer {
+  width: 740px;
+  height: 420px;
+  border: 3px solid #fff;
+  border-radius: 8px;
+  position: relative;
+  z-index: 3;
+  margin-top: 800px;
+}
+
+/* Cast Div & Pics */
+#castPics {
+  width: 220px;
+  max-height: 720px;
+  padding-right: 5px;
+  overflow-y: scroll;
+  float: right;
+}
+.castPic {
+  margin: 10px 0;
+  width: 175px;
+  height: 175px;
+  border-radius: 50%;
+  border: 3px solid #fff;
+  text-align: center;
+}
+.castName {
+  position: relative;
+  z-index: 2;
+  top: 125px;
+  padding: 0 9px;
+  height: 30px;
+  background: rgba(255, 255, 255, .67);
+  border-radius: 4px;
+  color: #333;
+  font-size: 1.2rem;
+  font-weight: 700;
+  text-align: center;
+}
+.castButton {
+  min-width: 175px;
+  min-height: 175px;
+  border-radius: 50%;
+  position: relative;
+  z-index: 7;
+  margin-top: -30px;
+  margin-left: -3px;
+  opacity: 0;
+}
+footer {
+  text-align: center;
+}
+.row.content {
+  height: 100%;
+  padding-top: 30px;
+}
+.actorDetails {
+  background-color: rgb(109, 118, 122);
+}
+.actorPic {
+  border-radius: 20px;
+  border: 2px solid #fff;
+  margin: 5px;
+  cursor: pointer;
+  width: 350px;
+  height: 500px;
+}
+.creditPosters {
+  display: inline-block;
+  border-radius: 20px;
+  border: 2px solid #fff;
+  margin: 5px;
+  cursor: pointer;
+  width: 120px;
+  height: 170px;
+}
+.profiles {
+  display: inline-block;
+  border-radius: 20px;
+  border: 2px solid #fff;
+  margin: 5px;
+  cursor: pointer;
+  width: 120px;
+  height: 170px;
+}
